@@ -1,1 +1,4 @@
-venv
+venv/
+artifacts/
+logs/
+research/3_model_trainer.ipynb
