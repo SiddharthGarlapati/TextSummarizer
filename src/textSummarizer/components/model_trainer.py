@@ -4,6 +4,7 @@ from transformers import DataCollatorForSeq2Seq
 import torch
 from datasets import load_from_disk
 import os
+from src.textSummarizer.entity import ModelTrainerConfig
 
 
 
